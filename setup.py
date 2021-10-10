@@ -33,7 +33,7 @@ setup(
         'Programming Language :: Python :: 3.7',
         'Programming Language :: Python :: 3.7.10',
     ],
-    python_requires='>=3.3, <=3.7.10',
+    python_requires='>=3.3, <=3.9.10',
 
     packages=['peterpy'],
     
